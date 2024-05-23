@@ -1,0 +1,20 @@
+commit 652a8d33ec3f4b1a09571b3a4b018576f847ac6a (HEAD -> main)
+Author: Felipe Viterbo <felipe.viterbo95@gmail.com>
+Date:   Thu May 23 12:43:44 2024 -0300
+
+    Novo número máximo 50
+
+commit 51d631b7d34cd41cd89b7be393224a1be46ec7c3
+Author: Felipe Viterbo <felipe.viterbo95@gmail.com>
+Date:   Thu May 23 12:42:58 2024 -0300
+
+    Retornando número máximo para 100
+
+commit cc3f7ac04295d276ddc9fbd379b1882943596a46
+Author: Felipe Viterbo <felipe.viterbo95@gmail.com>
+Date:   Thu May 23 12:40:19 2024 -0300
+
+    Mudando número máximo de 100 para 1000.
+
+commit dbadb443a0bdb2a3f18da1c5523aa6b35d78b8a2
+:
